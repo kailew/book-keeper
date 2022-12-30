@@ -79,7 +79,7 @@ function fetchBookmarks() {
     bookmarks = [
       {
         name: 'Kai Lew',
-        url: 'http://kaimlew',
+        url: 'https://kaimlew.com/',
       },
     ];
     localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
